@@ -1,0 +1,34 @@
+_repo: The-Lakewood-boys-on-the-Lazy-S_74045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wyman, L. P. (Levi Parker)
+    alias: Wyman, Levi Parker
+    birthdate: 1873
+    deathdate: 1950
+    gutenberg_agent_id: '42061'
+    url: http://www.gutenberg.org/2009/agents/42061
+description: ''
+gutenberg_issued: '2024-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74045'
+  lccn: '25007830'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435059299933&seq=7
+pgterms:marc905: 20240628132020wyman
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bA. L. Burth Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Lakewood boys on the Lazy S
+url: http://www.gutenberg.org/ebooks/74045
